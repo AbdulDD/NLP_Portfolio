@@ -15,4 +15,4 @@ For each and every task in this repository, a document (Task statement) is given
 Datasets used for different tasks are either public or created. For public datasets, links are given in task statement. For created datasets they are placed in dataset folder.
 
 # Projects
-## Project 1. EDA and Text Classificaion on Urdu Speech Dataset
+Project 1. EDA and Text Classificaion on Urdu Speech Dataset
