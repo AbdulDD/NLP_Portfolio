@@ -9,5 +9,6 @@ This repository is my comprehensive collection of tools, resources, projects and
 - [x] EDA and Text Classificaion on Urdu Speech Dataset
 - [x] Evaluating Students' writing using BERT: A Transformer Based Approach
 - [x] Spam Email detection using Naive Bayes algorithm
+
 **[BERT](https://github.com/AbdulDD/NLP_Portfolio/tree/main/BERT)**
 
