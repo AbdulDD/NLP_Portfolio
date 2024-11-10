@@ -15,9 +15,9 @@ For each and every task in this repository, a document (Task statement) is given
 Datasets used for different tasks are either public or created. For public datasets, links are given in task statement. For created datasets they are placed in dataset folder.
 
 # Projects
-[ ] EDA and Text Classificaion on Urdu Speech Dataset
-[ ] Evaluating Students' writing using BERT: A Transformer Based Approach
-[ ] Spam Email detection using Naive Bayes algorithm
+- [] EDA and Text Classificaion on Urdu Speech Dataset
+- [] Evaluating Students' writing using BERT: A Transformer Based Approach
+- [] Spam Email detection using Naive Bayes algorithm
 
 **BERT**
-[ ] Text Classification
+- [] Text Classification
