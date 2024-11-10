@@ -18,7 +18,5 @@ Datasets used for different tasks are either public or created. For public datas
 1. EDA and Text Classificaion on Urdu Speech Dataset
 2. Evaluating Students' writing using BERT: A Transformer Based Approach
 3. Spam Email detection using Naive Bayes algorithm
-4. BERT
-   [] Text Classification
-   
-[] 
+**BERT**
+[] Text Classification
